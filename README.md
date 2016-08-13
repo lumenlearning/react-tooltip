@@ -1,2 +1,10 @@
 # react-tooltip
-Simple tool tip component for react that renders based on mouse position.
+A simple tooltip component for react that renders based on mouse position.
+
+## Introduction
+
+## Installation
+
+## Usage
+
+## Props
